@@ -1,6 +1,10 @@
 # internal-medicine-scriping
 みやぎのお医者さんガイドをスクレイピングする。
 
+# 下準備
+必要なライブラリを格納するために、以下を実行する。
+pip install -r requirements.txt
+
 # 実行
 python main.py
 
